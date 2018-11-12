@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Doomsday</string>
+    <string name="welcome_to_doomsday">WELCOME TO DOOMSDAY</string>
+    <string name="restart_game">Restart</string>
+    <string name="flag_mode">Flag Mode</string>
+    <string name="flagStatusON">Flag mode</string>
+    <string name="flagStatusOFF">Danger mode</string>
+    <string name="you_lose_text">You have obliterated the world</string>
+    <string name="you_win_text">You have saved us all</string>
+</resources>
